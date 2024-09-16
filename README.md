@@ -1,4 +1,4 @@
 Equipe: 
-Fabrício Oliveira
-Leonardo Coelho Martins
+Fabrício Oliveira,
+Leonardo Coelho Martins e
 Pedro Vitor Medeiros Holanda Pequeno
